@@ -1,0 +1,6 @@
+<<Adapter View>>
+뷰를 구성하기 위해서 개발자가 코드를 이용해서 작성하는 뷰를 adapter view라 한다.
+
+데이터 + 위젯 + adapter = 결과물
+
+ListView
